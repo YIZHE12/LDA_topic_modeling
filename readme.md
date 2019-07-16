@@ -9,6 +9,9 @@ Assumptions:
 -- Documents are probability distributions over words
 
 
+<img src == model.png>
+
+<img src == LDA_model.png>
 
 Alpha: per-document topic distribution
 
