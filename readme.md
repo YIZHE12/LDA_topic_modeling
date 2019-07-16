@@ -1,4 +1,5 @@
 # LDA(Latent Dirichlet allocation) topic modeling
+## What is LDA?
 
 Assumptions:
 
