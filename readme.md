@@ -1,3 +1,5 @@
+# LDA(Latent Dirichlet allocation) topic modeling
+
 Assumptions:
 
 - Documents with similar topics will use similar groups of words
